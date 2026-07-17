@@ -1,0 +1,201 @@
+Student_ID,Physics,Chemistry,Mathematics,Biology,English,Computer_Science,Economics,Accountancy,Business_Studies,History,Geography,Political_Science,Stream,Aggregate_Percentage,Career
+S001,88,85,92,78,80,95,0,0,0,0,0,0,Science,86,Software Engineer
+S002,90,88,94,0,82,96,0,0,0,0,0,0,Science,90,Software Engineer
+S003,78,75,85,0,74,88,0,0,0,0,0,0,Science,80,Software Engineer
+S004,82,80,90,0,76,92,0,0,0,0,0,0,Science,84,Software Engineer
+S005,70,68,78,0,72,80,0,0,0,0,0,0,Science,74,Software Engineer
+S006,85,83,88,0,78,91,0,0,0,0,0,0,Science,85,Software Engineer
+S007,76,74,82,0,70,85,0,0,0,0,0,0,Science,77,Software Engineer
+S008,92,90,95,0,85,97,0,0,0,0,0,0,Science,92,Software Engineer
+S009,68,70,75,0,65,78,0,0,0,0,0,0,Science,71,Software Engineer
+S010,80,78,86,0,74,89,0,0,0,0,0,0,Science,81,Software Engineer
+S011,75,70,68,88,76,0,0,0,0,0,0,0,Science,75,Doctor
+S012,80,78,72,90,80,0,0,0,0,0,0,0,Science,80,Doctor
+S013,85,82,75,92,82,0,0,0,0,0,0,0,Science,83,Doctor
+S014,70,68,65,85,72,0,0,0,0,0,0,0,Science,72,Doctor
+S015,78,76,70,88,78,0,0,0,0,0,0,0,Science,78,Doctor
+S016,90,88,80,94,85,0,0,0,0,0,0,0,Science,87,Doctor
+S017,65,62,60,82,70,0,0,0,0,0,0,0,Science,68,Doctor
+S018,82,80,74,90,80,0,0,0,0,0,0,0,Science,81,Doctor
+S019,72,70,68,86,74,0,0,0,0,0,0,0,Science,74,Doctor
+S020,88,86,78,92,84,0,0,0,0,0,0,0,Science,86,Doctor
+S021,92,90,96,0,85,98,0,0,0,0,0,0,Science,92,Data Scientist
+S022,88,86,94,0,82,96,0,0,0,0,0,0,Science,89,Data Scientist
+S023,85,84,92,0,80,94,0,0,0,0,0,0,Science,87,Data Scientist
+S024,90,88,95,0,84,97,0,0,0,0,0,0,Science,91,Data Scientist
+S025,80,78,88,0,76,90,0,0,0,0,0,0,Science,82,Data Scientist
+S026,78,76,85,0,74,88,0,0,0,0,0,0,Science,80,Data Scientist
+S027,86,84,92,0,80,95,0,0,0,0,0,0,Science,87,Data Scientist
+S028,94,92,97,0,86,99,0,0,0,0,0,0,Science,94,Data Scientist
+S029,82,80,90,0,78,92,0,0,0,0,0,0,Science,84,Data Scientist
+S030,76,74,82,0,72,86,0,0,0,0,0,0,Science,78,Data Scientist
+S031,82,80,86,0,78,0,0,0,0,0,0,0,Science,81,Civil Engineer
+S032,85,83,90,0,80,0,0,0,0,0,0,0,Science,84,Civil Engineer
+S033,78,76,82,0,74,0,0,0,0,0,0,0,Science,77,Civil Engineer
+S034,90,88,92,0,84,0,0,0,0,0,0,0,Science,88,Civil Engineer
+S035,70,68,75,0,70,0,0,0,0,0,0,0,Science,71,Civil Engineer
+S036,75,72,80,0,72,0,0,0,0,0,0,0,Science,74,Civil Engineer
+S037,88,86,90,0,82,0,0,0,0,0,0,0,Science,86,Civil Engineer
+S038,65,63,70,0,65,0,0,0,0,0,0,0,Science,66,Civil Engineer
+S039,80,78,85,0,76,0,0,0,0,0,0,0,Science,79,Civil Engineer
+S040,92,90,94,0,86,0,0,0,0,0,0,0,Science,90,Civil Engineer
+S041,72,70,68,86,74,0,0,0,0,0,0,0,Science,74,Pharmacist
+S042,65,68,60,82,70,0,0,0,0,0,0,0,Science,69,Pharmacist
+S043,78,75,70,88,76,0,0,0,0,0,0,0,Science,77,Pharmacist
+S044,80,78,72,90,78,0,0,0,0,0,0,0,Science,79,Pharmacist
+S045,60,62,58,80,68,0,0,0,0,0,0,0,Science,66,Pharmacist
+S046,70,68,65,85,72,0,0,0,0,0,0,0,Science,72,Pharmacist
+S047,75,73,68,87,74,0,0,0,0,0,0,0,Science,75,Pharmacist
+S048,82,80,75,90,80,0,0,0,0,0,0,0,Science,81,Pharmacist
+S049,68,65,62,83,70,0,0,0,0,0,0,0,Science,70,Pharmacist
+S050,76,74,70,88,76,0,0,0,0,0,0,0,Science,77,Pharmacist
+S051,85,83,88,0,80,90,0,0,0,0,0,0,Science,85,Mechanical Engineer
+S052,80,78,85,0,76,0,0,0,0,0,0,0,Science,79,Mechanical Engineer
+S053,88,86,90,0,82,0,0,0,0,0,0,0,Science,86,Mechanical Engineer
+S054,75,73,80,0,72,0,0,0,0,0,0,0,Science,75,Mechanical Engineer
+S055,92,90,94,0,85,0,0,0,0,0,0,0,Science,90,Mechanical Engineer
+S056,70,68,74,0,68,0,0,0,0,0,0,0,Science,70,Mechanical Engineer
+S057,78,76,82,0,74,0,0,0,0,0,0,0,Science,77,Mechanical Engineer
+S058,65,63,68,0,65,0,0,0,0,0,0,0,Science,65,Mechanical Engineer
+S059,82,80,86,0,78,0,0,0,0,0,0,0,Science,81,Mechanical Engineer
+S060,90,88,92,0,84,0,0,0,0,0,0,0,Science,88,Mechanical Engineer
+S061,0,0,0,0,78,0,88,92,85,0,0,0,Commerce,85,Chartered Accountant
+S062,0,0,0,0,80,0,90,94,88,0,0,0,Commerce,88,Chartered Accountant
+S063,0,0,0,0,75,0,85,90,82,0,0,0,Commerce,83,Chartered Accountant
+S064,0,0,0,0,82,0,92,96,90,0,0,0,Commerce,90,Chartered Accountant
+S065,0,0,0,0,70,0,80,85,78,0,0,0,Commerce,78,Chartered Accountant
+S066,0,0,0,0,74,0,84,88,82,0,0,0,Commerce,82,Chartered Accountant
+S067,0,0,0,0,68,0,78,82,76,0,0,0,Commerce,76,Chartered Accountant
+S068,0,0,0,0,76,0,86,90,84,0,0,0,Commerce,84,Chartered Accountant
+S069,0,0,0,0,72,0,82,86,80,0,0,0,Commerce,80,Chartered Accountant
+S070,0,0,0,0,85,0,90,94,88,0,0,0,Commerce,89,Chartered Accountant
+S071,0,0,0,0,85,0,90,88,82,0,0,0,Commerce,86,Financial Analyst
+S072,0,0,0,0,80,0,85,84,78,0,0,0,Commerce,81,Financial Analyst
+S073,0,0,0,0,88,0,92,90,85,0,0,0,Commerce,89,Financial Analyst
+S074,0,0,0,0,76,0,82,80,75,0,0,0,Commerce,78,Financial Analyst
+S075,0,0,0,0,82,0,88,86,80,0,0,0,Commerce,84,Financial Analyst
+S076,0,0,0,0,70,0,78,76,72,0,0,0,Commerce,74,Financial Analyst
+S077,0,0,0,0,74,0,80,78,74,0,0,0,Commerce,76,Financial Analyst
+S078,0,0,0,0,90,0,94,92,88,0,0,0,Commerce,91,Financial Analyst
+S079,0,0,0,0,78,0,84,82,76,0,0,0,Commerce,80,Financial Analyst
+S080,0,0,0,0,84,0,88,86,82,0,0,0,Commerce,85,Financial Analyst
+S081,0,0,0,0,80,0,80,75,70,0,0,0,Commerce,76,Business Analyst
+S082,0,0,0,0,78,0,78,72,68,0,0,0,Commerce,74,Business Analyst
+S083,0,0,0,0,85,0,85,80,76,0,0,0,Commerce,81,Business Analyst
+S084,0,0,0,0,72,0,74,68,65,0,0,0,Commerce,70,Business Analyst
+S085,0,0,0,0,88,0,88,82,78,0,0,0,Commerce,84,Business Analyst
+S086,0,0,0,0,76,0,76,70,68,0,0,0,Commerce,72,Business Analyst
+S087,0,0,0,0,82,0,82,76,72,0,0,0,Commerce,78,Business Analyst
+S088,0,0,0,0,70,0,70,65,62,0,0,0,Commerce,66,Business Analyst
+S089,0,0,0,0,90,0,90,85,80,0,0,0,Commerce,86,Business Analyst
+S090,0,0,0,0,74,0,74,68,66,0,0,0,Commerce,70,Business Analyst
+S091,0,0,0,0,68,0,72,65,60,0,0,0,Commerce,66,Marketing Manager
+S092,0,0,0,0,75,0,78,70,68,0,0,0,Commerce,72,Marketing Manager
+S093,0,0,0,0,80,0,82,76,72,0,0,0,Commerce,77,Marketing Manager
+S094,0,0,0,0,72,0,75,68,65,0,0,0,Commerce,70,Marketing Manager
+S095,0,0,0,0,85,0,86,80,76,0,0,0,Commerce,81,Marketing Manager
+S096,0,0,0,0,70,0,74,68,64,0,0,0,Commerce,69,Marketing Manager
+S097,0,0,0,0,78,0,80,74,70,0,0,0,Commerce,75,Marketing Manager
+S098,0,0,0,0,65,0,70,64,60,0,0,0,Commerce,64,Marketing Manager
+S099,0,0,0,0,82,0,84,78,74,0,0,0,Commerce,79,Marketing Manager
+S100,0,0,0,0,76,0,78,72,68,0,0,0,Commerce,73,Marketing Manager
+S101,0,0,0,0,88,0,0,0,0,82,85,80,Arts,83,Civil Services
+S102,0,0,0,0,90,0,0,0,0,85,88,84,Arts,87,Civil Services
+S103,0,0,0,0,85,0,0,0,0,80,82,78,Arts,81,Civil Services
+S104,0,0,0,0,92,0,0,0,0,88,90,86,Arts,89,Civil Services
+S105,0,0,0,0,80,0,0,0,0,76,78,74,Arts,77,Civil Services
+S106,0,0,0,0,86,0,0,0,0,82,84,80,Arts,83,Civil Services
+S107,0,0,0,0,78,0,0,0,0,74,76,72,Arts,75,Civil Services
+S108,0,0,0,0,94,0,0,0,0,90,92,88,Arts,91,Civil Services
+S109,0,0,0,0,82,0,0,0,0,78,80,76,Arts,79,Civil Services
+S110,0,0,0,0,88,0,0,0,0,84,86,82,Arts,85,Civil Services
+S111,0,0,0,0,75,0,0,0,0,78,70,72,Arts,73,Journalist
+S112,0,0,0,0,80,0,0,0,0,82,75,76,Arts,78,Journalist
+S113,0,0,0,0,85,0,0,0,0,86,80,80,Arts,83,Journalist
+S114,0,0,0,0,70,0,0,0,0,72,66,68,Arts,69,Journalist
+S115,0,0,0,0,78,0,0,0,0,80,74,74,Arts,76,Journalist
+S116,0,0,0,0,82,0,0,0,0,84,78,78,Arts,80,Journalist
+S117,0,0,0,0,72,0,0,0,0,74,68,70,Arts,71,Journalist
+S118,0,0,0,0,88,0,0,0,0,90,84,84,Arts,86,Journalist
+S119,0,0,0,0,76,0,0,0,0,78,72,72,Arts,74,Journalist
+S120,0,0,0,0,80,0,0,0,0,82,76,76,Arts,78,Journalist
+S121,0,0,0,0,92,0,0,0,0,88,80,85,Arts,86,Lawyer
+S122,0,0,0,0,88,0,0,0,0,84,76,82,Arts,82,Lawyer
+S123,0,0,0,0,85,0,0,0,0,80,74,80,Arts,79,Lawyer
+S124,0,0,0,0,90,0,0,0,0,86,78,84,Arts,84,Lawyer
+S125,0,0,0,0,80,0,0,0,0,76,70,75,Arts,75,Lawyer
+S126,0,0,0,0,86,0,0,0,0,82,75,80,Arts,80,Lawyer
+S127,0,0,0,0,78,0,0,0,0,74,68,72,Arts,73,Lawyer
+S128,0,0,0,0,94,0,0,0,0,90,82,88,Arts,88,Lawyer
+S129,0,0,0,0,82,0,0,0,0,78,72,76,Arts,77,Lawyer
+S130,0,0,0,0,88,0,0,0,0,84,78,82,Arts,83,Lawyer
+S131,0,0,0,0,70,0,0,0,0,65,75,68,Arts,69,Teacher
+S132,0,0,0,0,75,0,0,0,0,70,78,72,Arts,73,Teacher
+S133,0,0,0,0,80,0,0,0,0,75,82,76,Arts,78,Teacher
+S134,0,0,0,0,68,0,0,0,0,64,72,66,Arts,67,Teacher
+S135,0,0,0,0,76,0,0,0,0,72,78,74,Arts,75,Teacher
+S136,0,0,0,0,82,0,0,0,0,78,84,80,Arts,81,Teacher
+S137,0,0,0,0,72,0,0,0,0,68,74,70,Arts,71,Teacher
+S138,0,0,0,0,78,0,0,0,0,74,80,76,Arts,77,Teacher
+S139,0,0,0,0,65,0,0,0,0,62,68,64,Arts,64,Teacher
+S140,0,0,0,0,85,0,0,0,0,80,86,82,Arts,83,Teacher
+S141,0,0,0,0,82,0,90,85,88,0,0,0,Commerce,86,Investment Banker
+S142,0,0,0,0,85,0,92,88,90,0,0,0,Commerce,88,Investment Banker
+S143,0,0,0,0,80,0,88,84,86,0,0,0,Commerce,84,Investment Banker
+S144,0,0,0,0,88,0,94,90,92,0,0,0,Commerce,91,Investment Banker
+S145,0,0,0,0,76,0,84,80,82,0,0,0,Commerce,80,Investment Banker
+S146,0,0,0,0,84,0,90,86,88,0,0,0,Commerce,87,Investment Banker
+S147,0,0,0,0,78,0,86,82,84,0,0,0,Commerce,82,Investment Banker
+S148,0,0,0,0,90,0,96,92,94,0,0,0,Commerce,93,Investment Banker
+S149,0,0,0,0,74,0,82,78,80,0,0,0,Commerce,78,Investment Banker
+S150,0,0,0,0,86,0,92,88,90,0,0,0,Commerce,89,Investment Banker
+S151,88,86,90,0,82,94,0,0,0,0,0,0,Science,88,AI/ML Engineer
+S152,92,90,95,0,85,97,0,0,0,0,0,0,Science,92,AI/ML Engineer
+S153,85,84,92,0,80,95,0,0,0,0,0,0,Science,87,AI/ML Engineer
+S154,90,88,94,0,84,96,0,0,0,0,0,0,Science,90,AI/ML Engineer
+S155,80,78,88,0,76,90,0,0,0,0,0,0,Science,82,AI/ML Engineer
+S156,86,84,91,0,80,93,0,0,0,0,0,0,Science,87,AI/ML Engineer
+S157,78,76,85,0,74,88,0,0,0,0,0,0,Science,80,AI/ML Engineer
+S158,94,92,97,0,87,98,0,0,0,0,0,0,Science,94,AI/ML Engineer
+S159,82,80,90,0,78,92,0,0,0,0,0,0,Science,84,AI/ML Engineer
+S160,76,74,82,0,72,86,0,0,0,0,0,0,Science,78,AI/ML Engineer
+S161,65,68,60,85,70,0,0,0,0,0,0,0,Science,70,Nurse
+S162,70,72,65,88,74,0,0,0,0,0,0,0,Science,74,Nurse
+S163,75,76,70,90,78,0,0,0,0,0,0,0,Science,78,Nurse
+S164,62,65,58,82,68,0,0,0,0,0,0,0,Science,67,Nurse
+S165,68,70,63,86,72,0,0,0,0,0,0,0,Science,72,Nurse
+S166,72,74,68,88,76,0,0,0,0,0,0,0,Science,75,Nurse
+S167,60,62,56,80,66,0,0,0,0,0,0,0,Science,65,Nurse
+S168,78,80,74,92,80,0,0,0,0,0,0,0,Science,81,Nurse
+S169,66,68,62,84,70,0,0,0,0,0,0,0,Science,70,Nurse
+S170,74,76,70,90,76,0,0,0,0,0,0,0,Science,77,Nurse
+S171,0,0,0,0,80,0,0,0,0,72,78,75,Arts,76,Psychologist
+S172,0,0,0,0,85,0,0,0,0,76,82,80,Arts,80,Psychologist
+S173,0,0,0,0,78,0,0,0,0,70,76,74,Arts,74,Psychologist
+S174,0,0,0,0,82,0,0,0,0,74,80,78,Arts,78,Psychologist
+S175,0,0,0,0,88,0,0,0,0,80,86,84,Arts,84,Psychologist
+S176,0,0,0,0,76,0,0,0,0,68,74,72,Arts,72,Psychologist
+S177,0,0,0,0,84,0,0,0,0,76,82,80,Arts,80,Psychologist
+S178,0,0,0,0,70,0,0,0,0,64,70,68,Arts,68,Psychologist
+S179,0,0,0,0,90,0,0,0,0,82,88,86,Arts,86,Psychologist
+S180,0,0,0,0,74,0,0,0,0,67,73,71,Arts,71,Psychologist
+S181,85,88,90,0,78,0,0,0,0,0,0,0,Science,85,Chemical Engineer
+S182,80,84,85,0,74,0,0,0,0,0,0,0,Science,80,Chemical Engineer
+S183,88,90,92,0,82,0,0,0,0,0,0,0,Science,88,Chemical Engineer
+S184,75,78,80,0,70,0,0,0,0,0,0,0,Science,75,Chemical Engineer
+S185,90,92,94,0,84,0,0,0,0,0,0,0,Science,90,Chemical Engineer
+S186,70,74,75,0,68,0,0,0,0,0,0,0,Science,71,Chemical Engineer
+S187,82,86,88,0,78,0,0,0,0,0,0,0,Science,83,Chemical Engineer
+S188,65,68,70,0,64,0,0,0,0,0,0,0,Science,67,Chemical Engineer
+S189,78,82,84,0,74,0,0,0,0,0,0,0,Science,79,Chemical Engineer
+S190,92,94,96,0,86,0,0,0,0,0,0,0,Science,92,Chemical Engineer
+S191,0,0,0,0,74,0,78,75,72,0,0,0,Commerce,74,Auditor
+S192,0,0,0,0,78,0,82,80,76,0,0,0,Commerce,79,Auditor
+S193,0,0,0,0,72,0,76,74,70,0,0,0,Commerce,73,Auditor
+S194,0,0,0,0,80,0,84,82,78,0,0,0,Commerce,81,Auditor
+S195,0,0,0,0,68,0,72,70,66,0,0,0,Commerce,69,Auditor
+S196,0,0,0,0,76,0,80,78,74,0,0,0,Commerce,77,Auditor
+S197,0,0,0,0,70,0,74,72,68,0,0,0,Commerce,71,Auditor
+S198,0,0,0,0,82,0,86,84,80,0,0,0,Commerce,83,Auditor
+S199,0,0,0,0,66,0,70,68,64,0,0,0,Commerce,67,Auditor
+S200,0,0,0,0,74,0,78,76,72,0,0,0,Commerce,75,Auditor
